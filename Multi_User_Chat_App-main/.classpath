@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Multi-User_chat_App-main/Multi-User_chat_App-main/ChatApp/src"/>
+	<classpathentry kind="lib" path="D:/projects/myprojectsjava/Multi_User_Chat_App-main/Multi_User_Chat_App-main/mysql-connector-java-8.0.30.jar" sourcepath="mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
